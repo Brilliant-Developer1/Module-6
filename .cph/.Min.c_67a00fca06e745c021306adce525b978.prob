@@ -1,0 +1,1 @@
+{"name":"Local: Min","url":"/Users/abidhassan/Documents/Code/Phitron/C Program/Module-6/Min.c","tests":[{"id":1681136320020,"input":"5\n1 8 5 9 5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abidhassan/Documents/Code/Phitron/C Program/Module-6/Min.c","group":"local","local":true}
